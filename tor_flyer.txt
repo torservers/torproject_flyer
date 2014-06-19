@@ -1,0 +1,112 @@
+The original Flyer:
+https://media.torproject.org/image/official-images/tor-circumvention-brochure-001c.pdf
+
+Front:
+
+EN: freedom & privacy online
+DE: Freiheit und Privatsphäre im Internet
+
+EN: I use Tor primarily in order to get to some of the information needed for work
+DE: Ich benutze Tor vor allem für den Zugang zu Informationen, die ich für meine Arbeit benötige
+
+EN: You could still open Blogger and post, but no one in Syria can access a Blogspot.com blog [without circumvention software]. It was really discouraging and frustrating
+DE: Man konnte zwar die Blogger-Webseite aufrufen, um dort etwas zu schreiben, aber niemand in Syrien konnte [ohne Umgehungs-Software] auf ein Blogspot.com-Blog zugreifen. Es war wirklich entmutigend und frustrierend
+
+EN: Tor rendered the government's efforts completely futile. They simply didn't have the know-how to counter that move. Ironically, we felt even more secure because we learned an invaluable lesson: encrypt and anonymize.
+DE: Tor machte die Bemühungen der Regierung komplett zwecklos. Sie hatten einfach nicht das Wissen und die Ausrüstung diesem Zug etwas entgegenzusetzen. Ironischerweise fühlten wir uns noch sicherer, da wir eine Lektion von unschätzbaren Wert gelernt hatten: Verschlüssele und bleibe anonym.
+
+Back:
+
+EN: Support Internet Freedom 
+DE: Unterstütze Internetfreiheit
+
+EN: Run a Tor Relay!
+DE: Betreibe ein Tor-Relay!
+
+EN: Internet censorship and monitoring are used by regimes across the globe. 
+DE: Internetzensur und -überwachung wird von Regimen in der ganzen Welt eingesetzt.
+
+EN: Some leaders think that their citizens cannot be trusted to determine which pages are appropriate to read. 
+DE: Manche Regierungen sind der Meinung, dass sie es nicht ihren Bürgern überlassen können, zu entscheiden, welche Webseiten für sie geeignet sind und welche nicht.
+
+EN: Some suppress dissent by rounding up bloggers, while many keep people from speaking out in the first place by making it known that the police are watching everyone.
+DE: Manche davon unterdrücken abweichende Meinungen, indem sie Blogger festnehmen lassen -- während viele Machthaber Menschen davon abhalten, überhaupt ihre Meinung zu äußern, indem sie verlautbaren lassen, dass alle von der Polizei beobachtet würden.
+
+EN: Others filter search results in order to rewrite history. For instance, this is what an image search for the scene of political unrest looks like on an uncensored connection:
+DE: Wieder andere filtern die Suchergebnisse, um die Geschichte zu verändern. So sieht es beispielsweise aus, wenn man nach Bildern von politischen Unruhen sucht und eine nicht zensierte Verbindung benutzt.
+
+EN: When you add filtering, this is what the same search looks like:
+DE: Wenn man eine gefilterte Verbindung nutzt, sieht das Suchergebnis so aus:
+
+EN: After a few years, it's almost as if nothing ever happened there. 
+DE: Nach ein paar Jahren ist es so, als sei dort nie etwas passiert.
+
+EN: History is reduced to a rumor. 
+DE: Die Geschichte wird auf Hörensagen reduziert.
+
+EN: In times of political unrest, journalists are deported, leaving reporting up to the citizens who use the internet to post videos and write to news organizations. 
+DE: In Zeiten politischen Aufruhrs, wenn Journalisten ausgewiesen werden, verbleibt die Aufgabe über das Geschehen zu berichten bei den Einwohnern vor Ort, die über das Internet Videos veröffentlichen und mit der Presse kommunizieren.
+
+EN: Getting the news out ensures that the record of events can not be erased.
+DE: Nachrichten nach außen gelangen zu lassen, stellt sicher, dass Aufzeichnungen von Ereignissen nicht vernichtet werden können.
+
+EN: Tor allows people behind national firewalls to circumvent censorship and keep their governments from finding out what they are doing online.
+DE: Tor ermöglicht es Menschen hinter einer sogenannten nationalen Firewall Zensur zu umgehen und schützt sie davor, dass der Staat ihre Internetaktivitäten überwacht und ausspioniert.
+
+EN: The internet usage of citizens can be controlled by governments in several ways. 
+DE: Regierungen können auf verschiedene Art und Weise die Benutzung des Internets einschränken und überwachen.
+
+EN: Alice can be watched as she connects to Bob, Bob can be watched, Bob can be working for the regime, or Alice can just be prevented from connecting to Bob's site.
+DE: Alice kann beobachtet werden, während sie sich mit Bob verbindet, Bob kann überwacht werden, Bob kann für das Regime arbeiten oder Alice kann einfach daran gehindert werden, Bobs Seite aufzurufen.
+
+EN: Alice might be watched
+DE: Alice könnte überwacht werden
+
+EN: Parts of network could be monitored
+DE: Teile des Netzwerks könnten abgehört werden
+
+EN: Bob could be compromised
+DE: Bob könnte kompromittiert sein
+
+EN: There are also several ways to get around restrictions. 
+DE: Es gibt verschiedene Wege um Beschränkungen zu umgehen.
+
+EN: One, offered by some commercial proxy providers, is a single relay to hide connections. 
+DE: Eine Möglichkeit, die von einigen kommerziellen Proxy-Anbietern angeboten wird, ist ein einzelner zwischengeschalteter Knoten, um die Verbindung zu verstecken.
+
+EN: Here, Alice is connecting to Bill:
+DE: Hier verbindet sich Alice zu Bill:
+
+EN: A single relay is a single point of failure, or it can be run by an eavesdropper. 
+DE: Ein einzelnes Relay ist jedoch problematisch, da bei einem Ausfall Nutzer nicht mehr ins Netz kommen. Eventuell könnte der Betreiber sogar aktiv gegen die Interessen der Nutzer arbeiten.
+
+EN: This is privacy by promise, and is only good as long as the proxy provider chooses not to reveal your information. Money can change hands, the relay can be hacked, or political pressure can lead to leaks.
+DE: Selbst wenn der Betreiber verspricht, nichts zu protokollieren oder zu filtern garantiert das System nicht, dass der Proxy-Anbieter tatsächlich sein Versprechen hält und deine Informationen nicht preisgibt ("Datenschutz durch Versprechen"). Möglicherweise gibt der Anbieter die Daten doch weiter, wenn man ihm nur genug Geld gibt oder er durch politischen Druck dazu gezwungen wird. Zudem könnte der Proxy auch gehackt werden.
+
+EN: If the proxy provider does not snoop, others can still get past a single relay. 
+DE: Selbst wenn der Proxy-Anbieter nicht schnüffelt, können andere theoretisch den Schutz eines einzelnen Knotens umgehen.
+
+EN: Timing analysis can still be used to bypass the relay and figure out what people are doing online.
+DE: Es gibt viele bekannte zeitbasierte Angriffsmethoden (sog. "Timing Analysis"), die genutzt werden können, um den Schutz des Knotens zu umgehen und herauszufinden, was die Proxy Nutzer online machen.
+
+EN: Adding multiple relays means that no single relay can betray users. Tor's relays are run by volunteers across the world.
+DE: Die Nutzung von mehreren Knoten bedeutet, dass ein alleiniges Relay keinen Nutzer verraten kann. Tor Relays werden von Freiwilligen auf der ganzen Welt betrieben.
+
+EN: Alice makes a session key with the first relay, then tunnels to the second relay and then the third.
+DE: Alice generiert einen Sitzungsschlüssel (sog. "Session Key") mit jedem der einzelnen Knoten, tunnelt dann zum zweiten Knoten und dann zum dritten.
+
+EN: No individual relay has all the information about Alice's activity online. 
+DE: Kein einzelner Knoten hat alle Informationen über die Online-Aktivitäten von Alice.
+
+EN: This is privacy by design. 
+DE: Dies nennt man "Privacy by Design" oder Deutsch: Schutz der Privatsphäre durch Design.
+
+EN: A network cannot reveal information it did not gather in the first place.
+DE: Ein Netzwerk kann keine Informationen enthüllen, die es gar nicht erst gesammelt hat.
+
+EN: Alice can still reveal too much information to Bill, Bob, or someone posing as friendly, but using Tor puts more control into her hands.
+DE: Alice kann natürlich immer noch freiwillig zu viele relevante Informationen an jemanden anders übermitteln, der sich als Freund ausgibt, doch durch Tor ist das ihre eigene Entscheidung.
+
+EN: Our developers are working hard to make Tor safer and easier to use, but we need your help. To find out how, go to:
+DE: Unsere Entwickler arbeiten hart daran, Tor noch sicherer und benutzerfreundlicher zu machen. Doch wir brauchen deine Hilfe. Um herauszufinden wie du helfen kannst, besuche: 
+
